@@ -1,0 +1,26 @@
+{
+    "name": "与乌克兰站在一起",
+    "short_name": "乌克兰支持",
+    "description": "了解乌克兰战争真相，支持和平与正义",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f6f8fa",
+    "theme_color": "#24292f",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "images/favicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/favicon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "categories": ["news", "education", "politics"],
+    "lang": "zh-CN",
+    "scope": "/",
+    "prefer_related_applications": false
+}
